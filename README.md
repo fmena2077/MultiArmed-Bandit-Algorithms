@@ -1,4 +1,4 @@
-"# MultiArmed-Bandit-Algorithms" 
+# MultiArmed-Bandit-Algorithms 
 
 In this project I present how one can implement Multi-Arm Bandit algorithms,
 showing how useful they are and quick to use.
